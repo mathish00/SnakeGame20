@@ -14,7 +14,7 @@ public class GameController {
 
 	private void gitTest() {
 		System.out.println("Theres the push!");
-		System.out.println(str);
+		
 
 	}
 }
